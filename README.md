@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![TigarRiski](img/github-header-banner.png)
 >>>>>>> a9f552b (update profile readme)
@@ -71,6 +72,11 @@
 
 ###
 <!-- 
+=======
+## Welcome To My Profile👋
+![TigarRiski](img/download.jpeg)
+<!--
+>>>>>>> 98cda62 (update profile readme)
 **TigarRiski/TigarRiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
