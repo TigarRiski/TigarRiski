@@ -1,5 +1,5 @@
 ## Welcome To My Profile👋
-![TigarRiski](img/download.jpeg)
+
 <!--
 **TigarRiski/TigarRiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
